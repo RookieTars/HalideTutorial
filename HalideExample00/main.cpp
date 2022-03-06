@@ -31,7 +31,7 @@ int main(int argc, char **argv)
     // brightens an image.
 
     // First we'll load the input image we wish to brighten.
-    Halide::Buffer<uint8_t> input = load_image("C:\\Users\\huawei\\Pictures\\rgb.png");
+    Halide::Buffer<uint8_t> input = load_image("..\\images\\rgb.png");
 
     // See below for a smaller version.
 

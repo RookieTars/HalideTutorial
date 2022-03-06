@@ -1,0 +1,6 @@
+{
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "C:/src/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  },
+  "commentTranslate.source": "Baidu"
+}
